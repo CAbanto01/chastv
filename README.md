@@ -1,3 +1,3 @@
 # chastv
 
-https://github.com/tu-usuario/tu-repositorio/raw/main/tu-lista.m3u
+https://github.com/CAbanto01/chastv/raw/main/Juegodelcalamar2.m3u
