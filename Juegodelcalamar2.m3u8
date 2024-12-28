@@ -1,16 +1,4 @@
 #EXTM3U
 
-EXTINF:0 tvg-id=»Juego del Calamar 2» tvg-logo=»https://gestion.pe/resizer/v2/ESENTPUESRDJTCG6NDJ2FU62PE.jpeg» group-title=»Series»,JuegoDelCalamar2x1
-https://be2719.rcr22.ams01.cdn255.com/hls2/08/07673/c3lfarghru2a_x/master.m3u8?t=nqaI5h0YpGFYfO7gKSiirDIefFqkeAGcN39jUP3RBfg&s=1735342632&e=10800&f=38367681&srv=53&asn=12252&sp=5500&p=
-EXTINF:0 tvg-id=»Juego del Calamar 2» tvg-logo=»https://gestion.pe/resizer/v2/ESENTPUESRDJTCG6NDJ2FU62PE.jpeg» group-title=»Series»,JuegoDelCalamar2x2
-https://be2719.rcr22.ams01.cdn255.com/hls2/01/07673/svl4jrlvtry8_x/master.m3u8?t=Ju-uli25Q-bqRCFXunoKFHMtvHnF6M-bOpgbOcd4X0A&s=1735343208&e=10800&f=38367677&srv=36&asn=12252&sp=5500&p=
-EXTINF:0 tvg-id=»Juego del Calamar 2» tvg-logo=»https://gestion.pe/resizer/v2/ESENTPUESRDJTCG6NDJ2FU62PE.jpeg» group-title=»Series»,JuegoDelCalamar2x3
-https://be4235.rcr32.ams02.cdn255.com/hls2/01/07673/ur2qs2cvyyey_,n,x,.urlset/master.m3u8?t=4lyS9SczbxXedr4oQQHDXc8NBUDQP0bmoc2ObzK5nEE&s=1735343251&e=10800&f=38367642&srv=48&asn=12252&sp=5500&p=
-EXTINF:0 tvg-id=»Juego del Calamar 2» tvg-logo=»https://gestion.pe/resizer/v2/ESENTPUESRDJTCG6NDJ2FU62PE.jpeg» group-title=»Series»,JuegoDelCalamar2x4
-https://be4242.rcr52.ams03.cdn255.com/hls2/01/07673/ui68t06anzt1_x/master.m3u8?t=NFOL_GLBemdMYHXpEmFvF--yfd5RumCw2c6gb76C7Ts&s=1735343320&e=10800&f=38367631&srv=03&asn=12252&sp=5500&p=
-EXTINF:0 tvg-id=»Juego del Calamar 2» tvg-logo=»https://gestion.pe/resizer/v2/ESENTPUESRDJTCG6NDJ2FU62PE.jpeg» group-title=»Series»,JuegoDelCalamar2x5
-https://be4235.rcr32.ams02.cdn255.com/hls2/01/07673/w7bqyy54eh0f_,n,x,.urlset/master.m3u8?t=lVeOtsBUSEAEL8jYBYAjUiy-SnAvJJ4hJwKcP1V9aKc&s=1735343371&e=10800&f=38367698&srv=14&asn=12252&sp=5500&p=
-EXTINF:0 tvg-id=»Juego del Calamar 2» tvg-logo=»https://gestion.pe/resizer/v2/ESENTPUESRDJTCG6NDJ2FU62PE.jpeg» group-title=»Series»,JuegoDelCalamar2x6
-https://be2719.rcr22.ams01.cdn255.com/hls2/01/07673/p2fo9loxatki_,n,x,.urlset/master.m3u8?t=Pbfm633akSWDIoQ-eIWKKf_WJdw5-8Km_f7HFjKrQBQ&s=1735343417&e=10800&f=38367671&srv=36&asn=12252&sp=5500&p=
-EXTINF:0 tvg-id=»Juego del Calamar 2» tvg-logo=»https://gestion.pe/resizer/v2/ESENTPUESRDJTCG6NDJ2FU62PE.jpeg» group-title=»Series»,JuegoDelCalamar2x7
-https://be7713.rcr82.waw05.cdn255.com/hls2/01/07673/xhva16lwyeef_x/master.m3u8?t=hUPxOycU7mlNu0bOwNb6zTVaNHC1XbsFiJ5bEDQ9WwA&s=1735343461&e=10800&f=38367767&srv=15&asn=12252&sp=5500&p=
+EXTINF:-1, JuegoDelCalamar2x7
+https://cr3bxsh8hrrf.tnmr.org/hls2/02/00918/c2tszosmvipd_h/index-v1-a1.m3u8?t=bs-ZhL5O6TvZYNqt3Ruc09SF_6QiLPYTAxJPZdZMQkM&s=1735345907&e=43200&f=4592483&i=0.3&sp=0
